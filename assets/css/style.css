@@ -1,0 +1,74 @@
+/* Professional Navy Blue Theme */
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #f8f9fa;
+  color: #1a1a1a;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+h1, h2 {
+  color: #002244; /* Navy */
+  margin-top: 2rem;
+}
+
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background-color: #002244;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.125rem;
+  max-width: 700px;
+  margin: 0 auto 1.5rem;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #0074d9;
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
+
+section {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.cta {
+  text-align: center;
+  padding: 3rem 1rem;
+  background-color: #e6f0ff;
+  border-top: 1px solid #ccc;
+}
